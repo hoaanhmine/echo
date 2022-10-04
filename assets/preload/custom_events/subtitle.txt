@@ -1,0 +1,5 @@
+Update Lyrics for the
+subtitle text.
+
+Value 1: Lyrics to Display
+Value 2: Not Used

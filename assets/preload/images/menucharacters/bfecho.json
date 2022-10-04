@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_bfecho",
+	"position": [
+		75,
+		0
+	],
+	"scale": 0.6,
+	"idle_anim": "BF hit",
+	"confirm_anim": "BF HEY!!"
+}
